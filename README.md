@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chelsea, an <a href="www.linkedin.com/in/chelsea-jones-b2b486233">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chelsea, an <a href="www.linkedin.com/in/chelsea-jones">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
