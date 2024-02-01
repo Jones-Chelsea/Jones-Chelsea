@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chelsea, an <a href="https://linkedin.com/in/chelsea-jones-IT">IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jones-Chelsea/osticket-prereqs)
